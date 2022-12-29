@@ -1,0 +1,29 @@
+body{
+    text-align: center;
+}
+h1{
+    font-size: 30px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    text-decoration: wavy;
+    color: white;
+}
+#AG{
+    background-color: darkslategray;
+}
+#Slayde{
+    background-color: DarkOliveGreen;
+}
+#MV{
+    background-color: blue;
+}
+
+#Slayde img{
+    height: 300px;
+    margin-top: 35px;
+}
+
+.carousel-inner p{
+    margin-top: 15px;
+    color: azure;
+    font-size: 25px;
+}
